@@ -1,20 +1,20 @@
-# 免费分享 ChatGPT 中文版镜像网站（2024/11/27持续更新）
+# 免费分享 ChatGPT 中文版镜像网站（2024/11/28持续更新）
 
 本仓库目的是让国内用户可以轻松体验 **ChatGPT 中文版**。
 
-免费分享国内 **ChatGPT镜像网站**，无需翻墙、无需魔法、无需注册账号，直接使用。让用户在正常网络下也能访问 **ChatGPT**。
+免费分享国内 **ChatGPT 中文版**镜像网站，无需翻墙、无需魔法、无需注册账号，直接使用。让用户在正常网络下也能访问 **ChatGPT**。
 
 ## ChatGPT 中文版介绍
 
-**ChatGPT中文版** 是指创建一个与官方的ChatGPT网站内容和功能几乎相同的网站。这些镜像网站可能会保留原网站的界面设计和交互体验，提供与原网站类似的服务。镜像网站通常用于提高访问速度、分担服务器负载、绕过地区限制或进行不同的实验和测试。
+**ChatGPT 中文版** 是指创建一个与官方的 ChatGPT 网站内容和功能几乎相同的网站。这些镜像网站可能会保留原网站的界面设计和交互体验，提供与原网站类似的服务。镜像网站通常用于提高访问速度、分担服务器负载、绕过地区限制或进行不同的实验和测试。
 
 **ChatGPT 官网入口:** [https://openai.com/](https://openai.com/)
 
 **ChatGPT 中文版:** [https://www.yixiaai.com/](https://www.yixiaai.com/)
 
-## ChatGPT镜像网站推荐
+## ChatGPT 镜像网站推荐
 
-2024/11/27 最后更新 ChatGPT镜像网站：https://chatgpt.lanjing.ai/
+2024/11/27 最后更新 ChatGPT 镜像网站：https://chatgpt.lanjing.ai/
 
 
 | 镜像站地址   | 支持模型       | 功能亮点          |
@@ -24,7 +24,7 @@
 | [https://chatgpt.lanjing.ai/](https://chatgpt.lanjing.ai/) | GPT-4o、GPT-4 | 无需注册 |
 | [https://yixiaai.cn/](https://yixiaai.cn/) | ChatGPT中文版 | AI工具站 |
 
-## 为什么使用ChatGPT镜像站
+## 为什么使用 ChatGPT 镜像站
 
 - 💡在某些地区，访问 OpenAI 官方网站可能受到限制或阻塞，镜像站可以帮助用户绕过这些限制，继续使用 ChatGPT 服务。
 - 💡在高流量时期，镜像站可以分担部分用户请求，减轻官方服务器的负担，确保服务的稳定性。
